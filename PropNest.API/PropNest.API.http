@@ -1,0 +1,6 @@
+@PropNest.API_HostAddress = http://localhost:5119
+
+GET {{PropNest.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
